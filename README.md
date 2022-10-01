@@ -1,7 +1,7 @@
 ## Welcome to My Profile  
 Hello, my name is **Nugroho Budi Prasetyo** you can call me ***tyo***. I'm student in majority Electrical Engineering, Telkom University, currently I'm last semester. You can add me on LinkedIn. [link](https://www.linkedin.com/in/nugrohoobp/)
 
-This is my project : 
+This is my past project : 
 - [Tourism Recommenders System](https://github.com/tyoamazinglib/recomendation-model-lstm)
 - [Image Counting with YOLOv5 + DeepSort](https://github.com/tyoamazinglib/image-counter-yolov5)
 - [Twitter Sentiment Analysis](https://github.com/tyoamazinglib/sentiment-analysis-kaggle-challenge)
