@@ -4,6 +4,8 @@ Hello, my name is **Nugroho Budi Prasetyo** you can call me ***tyo***. I'm stude
 This is my past project : 
 - [Tourism Recommenders System](https://github.com/tyoamazinglib/recomendation-model-lstm)
 - [Image Counting with YOLOv5 + DeepSort](https://github.com/tyoamazinglib/image-counter-yolov5)
+- [Film Recommenders TFRS](https://github.com/tyoamazinglib/recommendation-system-tfrs)
+- Fraud Prevention System (Restricted)
 - [Twitter Sentiment Analysis](https://github.com/tyoamazinglib/sentiment-analysis-kaggle-challenge)
 - [Arm Robot Color Sorter](https://github.com/tyoamazinglib/arm-robot-color-sorter)
 
