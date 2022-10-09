@@ -1,5 +1,5 @@
 ## Welcome to My Profile  
-Hello, my name is **Nugroho Budi Prasetyo** you can call me ***tyo***. I'm student in majority Electrical Engineering, Telkom University, currently I'm last semester. You can add me on LinkedIn. [link](https://www.linkedin.com/in/nugrohoobp/)
+Hello, my name is **Nugroho Budi Prasetyo** you can call me ***tyo***. I'm student in majority Electrical Engineering, Telkom University, currently I'm last semester. You can add me on [LinkedIn](https://www.linkedin.com/in/nugrohoobp/).
 
 This is my past project : 
 - [Tourism Recommenders System](https://github.com/tyoamazinglib/recomendation-model-lstm)
