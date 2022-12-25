@@ -8,6 +8,7 @@ This is my project :
 - Fraud Prevention System (Restricted)
 - [Twitter Sentiment Analysis](https://github.com/tyoamazinglib/sentiment-analysis-kaggle-challenge)
 - [Arm Robot Color Sorter](https://github.com/tyoamazinglib/arm-robot-color-sorter)
+- [Wayang Classification](https://github.com/tyoamazinglib/TSDN-wayang-classification)
 
 <p align="left">
 <a href="https://github.com/tyoamazinglib">
