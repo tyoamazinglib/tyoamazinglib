@@ -1,4 +1,3 @@
-## Welcome to My Profile  
 My name is Nugroho Budi Prasetyo usually called 'tyo'
 
 [LinkedIn](https://www.linkedin.com/in/nugrohoobp/).
