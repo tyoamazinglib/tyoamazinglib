@@ -1,6 +1,6 @@
 My name is Nugroho Budi Prasetyo usually called 'tyo'
 
-[LinkedIn](https://www.linkedin.com/in/nugrohoobp/).
+[LinkedIn](https://www.linkedin.com/in/nugrohoobp/)
 
 Projects : 
 - [Tourism Recommenders System](https://github.com/tyoamazinglib/recomendation-model-lstm)
